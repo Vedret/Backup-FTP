@@ -1,0 +1,6 @@
+com.microsoft.sqlserver.jdbc.SQLServerException: BACKUP DATABASE WITH COMPRESSION is not supported on Express Edition (64-bit).
+java.util.zip.ZipException: no current ZIP entry
+java.util.zip.ZipException: no current ZIP entry
+java.io.FileNotFoundException: C:\temp\test.zip (The system cannot find the path specified)
+java.io.FileNotFoundException: C:\temp\test.zip (The system cannot find the file specified)
+java.io.FileNotFoundException: C:\temp\test.zip (The system cannot find the file specified)

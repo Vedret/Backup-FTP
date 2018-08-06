@@ -1,0 +1,8 @@
+net.lingala.zip4j.exception.ZipException: input file is not a folder, user addFileToZip method to add files
+net.lingala.zip4j.exception.ZipException: unsupported compression type
+net.lingala.zip4j.exception.ZipException: unsupported compression type
+net.lingala.zip4j.exception.ZipException: unsupported compression type
+net.lingala.zip4j.exception.ZipException: unsupported compression type
+net.lingala.zip4j.exception.ZipException: unsupported compression type
+net.lingala.zip4j.exception.ZipException: zip headers not found. probably not a zip file
+net.lingala.zip4j.exception.ZipException: zip headers not found. probably not a zip file
